@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "042ECDDB-9AD0-44DF-A27B-5F534E9A5F7B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "f78396fa-2e7f-43e6-8593-b24e1499841f++509" : "Fetch_Feed\/Fetch_Feed\/EOGImageLoading\/EGOImageButton\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Fetch_Feed",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Fetch_Feed.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.0.8\/iPhone\/YOM",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "f78396fa-2e7f-43e6-8593-b24e1499841f++509"
+    }
+  ]
+}
